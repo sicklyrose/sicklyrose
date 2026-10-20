@@ -7,6 +7,10 @@
 <br><br>
 
 
+$${\color{#B09FAF}\textsf{hi! welcome,}}$$
+
+$${\color{#B09FAF}\textsf{please sign ata and read my straw..}}$$
+
 
 
 
