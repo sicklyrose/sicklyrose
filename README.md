@@ -7,9 +7,9 @@
 <br><br>
 
 
-$${\color{#4C001E}\textsf{hi! welcome,}}$$
+$${\color{#6B1236}\textsf{hi! welcome,}}$$
 
-$${\color{#4C001E}\textsf{please sign ata and read my straw..}}$$
+$${\color{#6B1236}\textsf{please sign ata and read my straw..}}$$
 
 
 
