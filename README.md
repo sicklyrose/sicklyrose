@@ -33,11 +33,3 @@ $${\color{#852044}\textsf{Has multiple fict-kins \ \ | \ \ user loves their frie
 
 $${\color{#852044}\textsf{please be kind! ♡}}$$
 
-<!-- bottom sticker -->
-<img src="https://i.ibb.co/0VXLgJhx/Untitled196-20261020163259.webp" width="720" alt="Bottom sticker" />
-
-</div>
-
-
-<div align="center">
-
