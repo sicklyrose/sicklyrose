@@ -19,6 +19,17 @@ $${\color{#6B1236}\textsf{please sign ata and read my straw..}}$$
 
 <br><br>
 
+
+$${\color{#852044}\textsf{he / him \ \ | \ \ it / its}}$$
+
+$${\color{#852044}\textsf{yumeship: Byakuya Togami (Danganronpa)}}$$
+
+$${\color{#852044}\textsf{mirror sharing}}$$
+
+$${\color{#852044}\textsf{Has multiple fict-kins \ \ | \ \ user loves their friends.}}$$
+
+$${\color{#852044}\textsf{please be kind! ♡}}$$
+
 <!-- bottom sticker -->
 <img src="https://i.ibb.co/0VXLgJhx/Untitled196-20261020163259.webp" width="720" alt="Bottom sticker" />
 
