@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- top sticker -->
-<img src="https://i.ibb.co/G4vRwYVf/Untitled196-20261020161734.webp" width="620" alt="Top sticker" />
+<img src="https://i.ibb.co/G4vRwYVf/Untitled196-20261020161734.webp" width="520" alt="Top sticker" />
 
 <br><br>
 
