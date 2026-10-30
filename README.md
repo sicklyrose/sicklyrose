@@ -15,24 +15,11 @@
 
 
 
-<table>
-  <tr>
-    <td width="100" align="center" valign="middle">
-      <img src="YOUR_IMAGE_LINK_HERE" width="85">
-    </td>
-    <td valign="middle" align="left">
 
-      $\color{#F04444}{\textsf{akutagawa ryūnosuke}}$
+| | |
+|:---:|:---|
+| <img src="https://i.postimg.cc/mDjMcQ47/grayscale-image-1-removebg-preview.png" width="85"> | $ {\color{#F04444}\textsf{akutagawa ryūnosuke}} $ <br> $ {\color{#F04444}\textsf{bungou stray dogs}} $ <br> $ {\color{#F04444}\textsf{2026 · nomination}} $ <br> nominated by [Knox Event](https://github.com/Knox-Event) |
 
-      $\color{#F04444}{\textsf{bungou stray dogs}}$
-
-      $\color{#F04444}{\textsf{2026 · nomination}}$
-
-      nominated by [Knox Event](https://github.com/Knox-Event)
-
-    </td>
-  </tr>
-</table>
 
 
 
@@ -40,5 +27,6 @@
 $${\color{#C4C4C4}\textsf{Remaking profile}}$$
 
 $${\color{#9C9C9C}\textsf{semi-active on pontown..getting sick often..}}$$
+
 
 
