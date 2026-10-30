@@ -17,9 +17,9 @@
 
 
 
-| <img src="https://i.postimg.cc/mDjMcQ47/grayscale-image-1-removebg-preview.png" width="85"> | $${\color{#F04444}\textsf{akutagawa ryūnosuke}}$$ <br> $${\color{#F04444}\textsf{bungou stray dogs}}$$ <br> $${\color{#F04444}\textsf{2026 · nomination}}$$ <br> nominated by [Knox Event](https://github.com/Knox-Event) |
+| <img src="https://i.postimg.cc/mDjMcQ47/grayscale-image-1-removebg-preview.png" width="85"> | $${\color{#F04444}\textsf{(zombie)akutagawa ryūnosuke}}$$ <br> $${\color{#F04444}\textsf{bungou stray dogs}}$$ <br> $${\color{#F04444}\textsf{2026 · nomination}}$$ <br> nominated by [Knox Event](https://github.com/Knox-Event) |
 |:---:|:---|
-|
+
 
 
 
