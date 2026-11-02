@@ -24,7 +24,7 @@
 
 $${\color{#C4C4C4}\textsf{Remaking profile}}$$
 
-$${\color{#9C9C9C}\textsf{I haven't had anyone to vent to so I'm probably going to take a short break from Ponytown..sorry}}$$
+$${\color{#9C9C9C}\textsf{getting back on ponytown soon}}$$
 
 
 
