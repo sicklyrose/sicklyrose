@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  \(\color{#8A8A8A}\textsf{Follow + sign ata}\)
+  $$(\color{#8A8A8A}\textsf{Follow + sign ata}}$$
 </p>
 
 <!-- AKUTAGAWA -->
