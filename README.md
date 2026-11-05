@@ -6,8 +6,9 @@
 
 <!-- COLOURED TEXT -->
 <p align="center">
-  \(\color{#8A8A8A}\textsf{Follow + sign ata}\)
-</p>
+  (Here)[https://larpfies.atabook.org]
+$${\color{#8A8A8A}\textsf{FOLLOW + SIGN ATA}}$$
+  </p>
 
 <!-- AKUTAGAWA -->
 <div align="left">
