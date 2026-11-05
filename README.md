@@ -4,11 +4,11 @@
   <img src="https://i.postimg.cc/rpGHx3LM/Untitled205-20261105113823.webp" width="100%">
 </p>
 
-<!-- COLOURED TEXT -->
 <p align="center">
-  (Here)[https://larpfies.atabook.org]
-$${\color{#8A8A8A}\textsf{FOLLOW + SIGN ATA}}$$
-  </p>
+  <a href="https://larpfies.atabook.org/">
+    FOLLOW + SIGN ATA
+  </a>
+</p>
 
 <!-- AKUTAGAWA -->
 <div align="left">
