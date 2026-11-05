@@ -1,11 +1,13 @@
-
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://i.postimg.cc/rpGHx3LM/Untitled205-20261105113823.webp" width="100%">
 </p>
 
+<p align="center">
+  \(\color{#8A8A8A}\textsf{Follow + sign ata}\)
+</p>
 
-$${\color{#8A8A8A}\textsf{Follow + sign ata}}$$
+<!-- AKUTAGAWA -->
 
 
 
