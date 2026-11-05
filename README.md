@@ -1,15 +1,13 @@
+
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://i.postimg.cc/rpGHx3LM/Untitled205-20261105113823.webp" width="100%">
 </p>
 
+<!-- COLOURED TEXT -->
 <p align="center">
-  $$(\color{#8A8A8A}\textsf{Follow + sign ata}}$$
+  \(\color{#8A8A8A}\textsf{Follow + sign ata}\)
 </p>
-
-<!-- AKUTAGAWA -->
-
-
 
 <!-- AKUTAGAWA -->
 <div align="left">
@@ -37,8 +35,6 @@ $${\color{#FFFFFF}\textsf{pt-piddles.jet}}$$
 <br clear="all">
 </div>
 
-<br>
-
 <!-- CRONA -->
 <div align="left">
 
@@ -59,8 +55,6 @@ $${\color{#FFFFFF}\textsf{pt-piddles.jet}}$$
 <br clear="all">
 </div>
 
-<br>
-
 <!-- PERSONAL INFORMATION -->
 <p align="center">
 
@@ -75,8 +69,6 @@ $${\color{#999999}\textsf{♡ kin-fluid}}$$
 $${\color{#777777}\textsf{ᯓ Robin or Dev}}$$
 
 </p>
-
-<br>
 
 <!-- BOTTOM BANNER -->
 <p align="center">
