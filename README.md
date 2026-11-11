@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://larpfies.atabook.org/">
-    FOLLOW + SIGN ATA
+     ATA
   </a>
 </p>
 
@@ -21,41 +21,21 @@
 
 $${\color{#777777}\textsf{nominated by:}}$$
 
-$${\color{#999999}\textsf{Knox-Event}}$$
-<br>
-<a href="https://github.com/Knox-Event">github</a>
+<a href="https://github.com/Knox-Event">Knox Event</a><br>
 
-$${\color{#BBBBBB}\textsf{THE-TEMPIST}}$$
-<br>
-<a href="https://github.com/THE-TEMPIST">github</a>
 
-$${\color{#FFFFFF}\textsf{pt-piddles.jet}}$$
-<br>
-<a href="https://github.com/piddlesjet">github</a>
+<a href="https://github.com/THE-TEMPIST">The Tempist</a>
 
-<br clear="all">
-</div>
 
-<!-- CRONA -->
-<div align="left">
+<a href="https://github.com/piddlesjet">Pt-piddles</a>
 
-<img src="https://i.postimg.cc/GpnNBrVJ/Untitled205-20261105114745.webp"
-     width="48%"
-     align="left">
+<a href="https://github.com/pts-r0ttingeyes">pts-rotting eyes</a><br>
 
-<h3 align="right">Crona Gorgon</h3>
-
-<p align="right">
-$${\color{#777777}\textsf{nominated by:}}$$
-<br>
-$${\color{#FFFFFF}\textsf{pt-piddles.jet}}$$
-<br>
-<a href="https://github.com/piddlesjet">github</a>
-</p>
 
 <br clear="all">
 </div>
 
+<!-- CRONA -
 <!-- PERSONAL INFORMATION -->
 <p align="center">
 
