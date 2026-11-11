@@ -17,7 +17,7 @@
      width="48%"
      align="right">
 
-<h3>Akutagawa</h3>
+<h3>Ponytown's Akutagawa</h3>
 
 $${\color{#777777}\textsf{nominated by:}}$$
 
